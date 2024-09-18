@@ -50,8 +50,6 @@ The trailer will be processed and downloaded to the downloads directory with a f
 
 ## Code Structure
 
-- **server.js**: The main server file that sets up the Express server and handles requests.
+- **server.js**: The main server file that sets up the Express server and handles requests and downloading the trailer using yt-dlp.
 
 - **public/index.html**: The HTML file that provides the web interface for inputting movie URLs.
-
-- **downloadTrailer.js**: Contains the logic for downloading the trailer using yt-dlp.
