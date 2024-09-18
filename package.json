@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "puppeteer": "^23.4.0"
+  },
+  "dependencies": {
+    "@yemreak/yt-dlp": "^1.1.5",
+    "express": "^4.21.0",
+    "progress": "^2.0.3"
+  },
+  "name": "iTrailer v1",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "imsxndro",
+  "license": "MIT",
+  "description": "Download trailers from any iTunes movies"
+}
