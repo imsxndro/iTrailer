@@ -22,4 +22,4 @@ A Node.js web application that allows you to extract and download movie trailers
 
    ```bash
    git clone https://github.com/imsxndro/iTrailer.git
-   cd your-repo-name
+   cd iTrailer
