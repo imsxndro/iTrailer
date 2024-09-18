@@ -1,8 +1,5 @@
-## Features
-
-
 # iTrailer
-iTrailer - Download trailers from any iTunes movies
+iTrailer - Download trailers from any iTunes movies (FR only)
 
 A Node.js web application that allows you to extract and download movie trailers from Apple TV URLs through a web interface. The application uses Puppeteer to scrape the trailer URL and `yt-dlp` to download the trailer.
 
